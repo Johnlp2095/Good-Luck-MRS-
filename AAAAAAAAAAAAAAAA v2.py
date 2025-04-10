@@ -6,10 +6,10 @@ import time
 
 print(" Starting.......")
 time.sleep(1)
-print("      Aegis Development presents...     ")
+print(" The class of 2025 presents!!...     ")
 print(" ")
 time.sleep(1)
-print("         《★~ Crismon Seas ~★ 》 ")
+print("         《Leaver's message!》 ")
 time.sleep(1)
 print("  ")
 time.sleep(1)
