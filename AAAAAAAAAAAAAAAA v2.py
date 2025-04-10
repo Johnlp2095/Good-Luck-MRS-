@@ -76,7 +76,7 @@ print("          | To Mrs Mayle,                                                
 time.sleep(1)
 print("          |                                                                                |")
 time.sleep(1)
-print("          | 	Thank you for seeing is though our years,                                    |")
+print("          | Thank you for seeing is though our years,                                      |")
 time.sleep(1)
 print("          | You are the greatest teacher any student could ask for                        |")
 time.sleep(1)
